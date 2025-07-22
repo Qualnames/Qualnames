@@ -1,20 +1,21 @@
-<h1 align="center">Miko</h1>
-<h3 align="center">A Junior Developer from Indonesia🇮🇩</h3>
+## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-- 🔥 I’m currently working on [Lulla Project](https://t.me/LullaProject)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-- 💬 Ask me about **anything.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/qualname" target="_blank" rel="noreferrer">Myself</a>
-</p>
+___
+### Stats:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Qualnames&label=Profile%20views&color=0e75b6&style=flat" alt="Qualnames" /> </p>
+<p align="center"><a href="https://github.com/Qualnames"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qualnames&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Ling-ex"><img src="https://github-readme-stats.vercel.app/api?username=Qualnames&show_icons=true&theme=radical"></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qualnames&theme=radical" alt="Qualnames" /></p>
+<a href="https://github.com/Qualnames"> <img src="https://github-profile-trophy.vercel.app/?username=Qualnames&row=2&column=3&theme=onedark" alt="Miko's github"/> </a> 
+<p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -36,4 +37,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
+</p>
+
+   <a href="https://t.me/Qualname" target="blank"><img src="https://img.shields.io/badge/Miko-30302f?style=flat&logo=telegram" /></a>
 </p>
